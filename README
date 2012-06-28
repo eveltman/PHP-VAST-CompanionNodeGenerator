@@ -1,0 +1,4 @@
+VAST Companion Ad Node Generator
+This tool is for users to create a valid VAST Companion Ad XML node.
+Input is the tag URL, width, and height.
+There is a pulldown for VAST Version, currently supports only version 2.0.
